@@ -1,2 +1,2 @@
 zuul:
-  prefix: /acc
+  prefix: /api
